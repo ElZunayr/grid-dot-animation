@@ -47,7 +47,7 @@ git clone https://github.com/ElZunayr/grid-dot-animation.git
 Once your pull request has been merged, you can delete your branch.
 
 ## 🧰 Video Youtube
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/hkZvSDbMtcs/mqdefault.jpg?v=671e962a&sqp=COje_LgG&rs=AOn4CLA2zO7z80-gkgnf3f0WlDUpYAF6bw)](https://youtu.be/hkZvSDbMtcs)
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/hkZvSDbMtcs/mqdefault.jpg?v=671e962a&sqp=CMCThrkG&rs=AOn4CLDHSNMwHNLveRP2tL7uCvZDYdd0ig)
 
 ## 📝 License
 
@@ -59,7 +59,7 @@ Made with by EL Zunayr Development
 
 ---
 
-Support El Zunayr :wave: [Get in touch](buymeacoffee.com/elzunayr)
+Support El Zunayr :wave: [Get in touch](https://sociabuzz.com/elzunayr)
 
 ## 🔗 References
 - https://youtu.be/Uk0raTkQYxE?si=ajfnQ1PTm2ozAxhA
